@@ -1,0 +1,26 @@
+a {
+    display: inline-block;
+    border: 3px solid black;
+    text-align: center;
+    height: 50px;
+    width: 100px;
+}
+main p{
+    display: inline-block;
+    border: 3px solid black;
+    align-items: left;
+    text-align: center;
+    height: 200px;
+    width: 300px;
+}
+span{
+    display: inline-block;
+    border: 3px solid black;
+    align-items: left;
+}
+.ativa{
+    display: inline-block;
+    border: 3px solid black;
+    height: 50px;
+    width: 1900px;
+}
